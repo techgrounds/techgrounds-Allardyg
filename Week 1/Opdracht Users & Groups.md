@@ -26,5 +26,9 @@ Ik had moeite om het bestand in /etc/ te vinden, dit kwam omdat ik een forward s
 
 ### Resultaat
 In de screenshot is te zien hoe ik een admin gebruiker heb aangemaakt met wachtwoord.
-De gebruiker heeft sudo rechten, en ik kan het bestand /etc/passwd openen waar de informatie van de gebruiker in staat
+De gebruiker heeft sudo rechten, en ik kan het bestand /etc/passwd openen waar de informatie van de gebruiker in staat.
+Tot slot open ik het /etc/group bestand en laat ik zien dat de gebruiker deel is van de admin groep.
+
 ![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/e5edf19e-deb3-4fb5-961b-3f2e7541caed)
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/e3d7d2b6-ccd2-4ce5-a729-249f3853a019)
+
