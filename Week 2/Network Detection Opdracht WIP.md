@@ -23,3 +23,9 @@ https://www.geeksforgeeks.org/nmap-command-in-linux-with-examples/
 [Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
 
 ![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/0c99e495-29d6-4353-9c5a-7b938b6b7b98)
+
+Resultaten van nmap
+
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/be9caa17-1a6f-47f3-9785-6d8dd1ec49c9)
+
+Resultaten van Wireshark package analysis. Het lijkt er op dat bij het openen van mijn browser er eerst een aantal veiligheidsmaatregelingen plaatsvinden onder "transport layer security"
