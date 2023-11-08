@@ -1,4 +1,4 @@
-# Detection, Response & Analysis\
+# Detection, Response & Analysis
 
 Hoe ga je om met een cybersecurity aanval?
 
