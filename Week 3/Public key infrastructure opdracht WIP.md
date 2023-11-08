@@ -41,7 +41,7 @@ Hier is de SSL van Github te zien:
 
 Vergeleken met andere websites zoals Google zie ik dat het bestand minder groot is, en het lijkt er op dat het certicaat deel is van een ander certificaat, wat weer deel is van nog een ander certificaat. En aan de geldiheidsdatum te zien is de eerste ongeveer een jaar geldig, het tweede 10 jaar, en de laatste 25 jaar.
 
-Via windows+R, en ** ben ik terecht gekomen bij de SSL's in mijn Windows omgeving:
+Via windows+R, en certmgr.msc ben ik terecht gekomen bij de SSL's in mijn Windows omgeving:
 
 ![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/83ce8ac4-1a74-4422-89c3-888e1be1e565)
 
