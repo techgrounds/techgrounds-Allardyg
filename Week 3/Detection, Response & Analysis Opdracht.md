@@ -1,22 +1,22 @@
 # Detection, Response & Analysis
 
-Hoe ga je om met een cybersecurity aanval?
+Hoe ga je om met een cybersecurity aanval? In deze opdracht leer ik over de verschillende strategieën en systemen tegen aanvallen en datalekken.
 
 ## Key-terms
 
-Social Engineering - Het richten van een cybersecurity aanval op de persoon zelf door te rekenen op menselijke fouten. Denk hierbij aan het overtuigen van Tech Support dat je iemand bent met een hoge status binnen het bedrijf
+Social Engineering - Het richten van een cybersecurity aanval op de persoon zelf door te rekenen op menselijke fouten. Denk hierbij aan het overtuigen van Tech Support dat je iemand bent met een hoge status binnen het bedrijf, waardoor je toegang krijgt gevoelige informatie
 
-IDS
+IDS - Intrusion Detection system, merkt het op als er iets binnen het netwerk anders is dan normaal en geeft dat aan door middel van een melding. Neemt geen directe actie. 
 
-IPS
+IPS - Intrusion Protection System, merkt het op als er iets afwijkt en neemt ook actie in door middel van netwerken afsluiten. Het is een inline systeem.
 
-Hack response strategies
+Hack response strategies - Hoe een instantie om gaat met een datalek of aanval, van het minimaliseren van risico's tot de vervolgstappen zoals het verbeteren van de beveiliging.
 
-System hardening
+System hardening - Het herkennen van zwaktes binnen het netwerk.
 
-RPO
+RPO - Recovery Point Objective, de hoeveelheid data die verloren gaat na een herstellen van een backup, uitgedrukt in tijd.
 
-RTO
+RTO - Recovery Time Objective, de tijd die het kost om weer online te zijn.
 
 
 ## Onderzoek
