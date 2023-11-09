@@ -31,7 +31,7 @@ RTO - Recovery Time Objective, de tijd die het kost om weer online te zijn.
 
 
     
-## Opdracht
+## Opdracht en resultaat
 
     A Company makes daily backups of their database. 
     The database is automatically recovered when a failure happens using the most recent available backup. 
@@ -68,7 +68,5 @@ https://dynamixsolutions.com/types-disaster-recovery-plans/
 
 
 ### Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
 
-### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+Geen ervaren problemen
