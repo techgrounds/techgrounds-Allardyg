@@ -1,19 +1,32 @@
-# [Onderwerp]
-[Geef een korte beschrijving van het onderwerp]
+# Assymmetric Encryption Opdracht
+
+Assymetric Encryption werkt door middel an public keys en private keys. Met de ene key versleutel (encrypt) je de tekst, en met de andere sleutel open (decrypt) je het bericht.
+
 
 ## Key-terms
-[Schrijf hier een lijst met belangrijke termen met eventueel een korte uitleg.]
+
+Encryption - Het veranderen van een rij karakters naar een nieuwe rij onbegrijpelijke karakters, dit kan ongedaan worden gemaakt door decryption
+
+Decryption - Het terugveranderen van een rij onbegrijpelijke karakters naar wat er origineel stond.
+
+
 
 ## Opdracht
 
 Verstuur een encrypted message naar een klasgenoot via het publieke slack kanaal.
 
 
-### Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
+### Gebruikte bronnen en tools
+
+https://www.devglan.com/online-tools/rsa-encryption-decryption
+
+https://www.youtube.com/watch?v=ZPXVSJnDA_A
+
 
 ### Ervaren problemen
-[Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
+
+Een observatie door een klasgenoot was dat de resulterende string tekst telkens anders is, zelfs als je alle parameters hetzelfde houdt.
+
 
 ### Resultaat
 Public key:
@@ -52,6 +65,10 @@ Public key van klasgenoot Deniz:
     Y3UJheYnLONmgGDmR8f1CulZ5evyCFN92M3/5IEVNldiDQtGGxx
     fiT/owIDAQAB
 
+Bovenstaande informatie plaatsen we in de website, wat resulteert in het volgende resultaat:
+
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/c5154af9-4a2c-45bd-b4d1-d814346b395d)
+
 Encrypted message van mij naar Deniz:
 
     MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCoW7x25IzWYF1
@@ -60,11 +77,22 @@ Encrypted message van mij naar Deniz:
     Y3UJheYnLONmgGDmR8f1CulZ5evyCFN92M3/5IEVNldiDQtGGxx
     fiT/owIDAQAB
 
+Dit delen we in het Slack kanaal:
+
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/ae4a3601-857f-4315-aa2a-e759738e33b2)
+
+
+
+Deniz heeft ons ook een bericht gestuurd.
 Encrypted message van Deniz naar mij:
 
     WFxsErD5xwG2RhC+dcClVmIX05s20cDDE2r1gvgch38nCiaco8x
     RfcnbDoOuxsJJ/8vhtLoYnyXQ057v9TA8i9L5SvHo1JcQp3jYGA
     7FfMgv2Z9Kp+tOkayBguQBkcARyitE+7yJGOvL8m6k8li0e/l0p
     OPkIodapvGLfobM2CI=
+
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/835ce368-c50e-4123-9460-5d2283ed5fdd)
+
+De inhoud van deze berichten kan alleen worden gelezen door mij en Deniz, en de lezer van deze opdrachten. Om het te lezen heb je dus de private key nodig.
 
 
