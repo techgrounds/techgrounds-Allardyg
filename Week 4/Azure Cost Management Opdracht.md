@@ -12,7 +12,7 @@ Hoe houd je het overzicht van je kosten binnen Azure?
 
 **De TCO-calculator** - Total Cost of Ownership Calculator, hier te vinden: https://azure.microsoft.com/nl-nl/pricing/tco/calculator/
 
-
+**Cost Anomaly** - Kosten die opmerkelijk zijn ten opzichte van de normale kosten
 
 
 ## Opdracht
@@ -32,8 +32,13 @@ Opdracht:
 ### Gebruikte bronnen
 [Plaats hier de bronnen die je hebt gebruikt.]
 
+https://learn.microsoft.com/en-us/azure/well-architected/cost/principles (Cost management principles)
+
 ### Ervaren problemen
 [Geef een korte beschrijving van de problemen waar je tegenaan bent gelopen met je gevonden oplossing.]
 
 ### Resultaat
-[Omschrijf hoe je weet dat je opdracht gelukt is (gebruik screenshots waar nodig).]
+
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/6eab4e8b-3f21-464b-be43-8fcfa6febc12)
+
+Het aanmaken van een nieuwe cost anomaly
