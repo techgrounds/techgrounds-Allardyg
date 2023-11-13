@@ -5,6 +5,8 @@ Week 4 - Azure 1
 
 https://mycloudit.com/blog/which-azure-region-is-right-for-me
 
+Microsoft Azure uses the concept of an “Azure Region” as opposed to an “Azure datacenter” for each Azure location. Each Azure Region consists of multiple buildings, or datacenters. Each Region is at least the size of a city block. The reason I bring this up is that with each Azure region being the size of a city block, it provides a lot of redundancy within each physical location. I say that because each Azure region stores three copies of any data you store within that Azure Region.
+
 Azure, locally redundant.
 What are the paired regions (For Europe, the paired regions are West europe and north europe (ireland)
 As you can see, there can be a lot of things to consider when choosing an Azure Region, but typically, our customers tend to choose Azure Regions closer to their physical location, when possible
