@@ -17,7 +17,7 @@ Deel de URL met een teamgenoot. Zorg ervoor dat je teamgenoot de website kan zie
 
 
 ### Gebruikte bronnen
-[Plaats hier de bronnen die je hebt gebruikt.]
+https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website
 
 ### Ervaren problemen
 Omdat opdracht 1 alleen voor mij beschikbaar moet zijn wilde ik mijn netwerk eerst privé maken, hier kwam veel meer bij kijken dan ik dacht. 
@@ -47,12 +47,14 @@ Mijn foto is zichtbaar binnen Storage Explorer
 
 ![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/2b6ce07a-cea5-4d0c-a571-52e1e761185c)
 
-Ik kan hem downloade en bekijken, dus het is gelukt.
+Ik kan hem downloaden en bekijken, dus het is gelukt.
 
 
 Opdracht 2:
 
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/f66e58c9-0e36-4d55-b0ea-066faed09225)
 
+Een screenshot van mijn peer student, Francois. Mijn website is zichtbaar voor hem.
 
 
 
