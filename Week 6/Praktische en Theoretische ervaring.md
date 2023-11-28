@@ -12,9 +12,16 @@ Microsoft Entra ID staat altijd aan. Zodra je een account maakt heeft dit accoun
 
     Hoe kan ik Microsoft Entra ID koppelen aan andere resources?
 
+?
 
+### Azure Monitor
 
     Waar kan ik Azure Monitor vinden in de console?
+in het hamburgermenu aan de linkerzijde
+
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/907e51d4-a904-43ec-bc7f-80a45cceaae9)
+
+https://portal.azure.com/#view/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/~/overview
 
 
     Hoe zet ik Azure Monitor aan?
