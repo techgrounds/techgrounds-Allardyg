@@ -32,8 +32,14 @@ https://portal.azure.com/#view/Microsoft_Azure_Monitoring/AzureMonitoringBrowseB
 
   
     Waar kan ik CosmosDB vinden in de console?
-  
+  Hamburgermenu linkerzijde, of bij azure monitor onder Insights
+
+  ![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/d64a95d6-54cc-4acc-a63c-d6106cc26b54)
+
+
     Hoe zet ik CosmosDB aan?
+ Vanuit de CosmosDB pagina kan je een instantie aanmaken, vervolgens kies je een API (NoSQL, PostgreSQL, MongoDB, etc)
+
  
     Hoe kan ik CosmosDB koppelen aan andere resources?
 
