@@ -26,9 +26,14 @@ https://portal.azure.com/#view/Microsoft_Azure_Monitoring/AzureMonitoringBrowseB
 
     Hoe zet ik Azure Monitor aan?
 
+De monitor staat altijd aan, maar je moet wel in het overview een selectie maken voordat je inzicht krijgt. Je hebt insights, en Detection, triage, and diagnosis. In de volgende screenshot heb ik onder Detection, triage, and diagnosis de functie Metrics geselecteerd, en mijn CosmosDB geselecteerd.
+
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/6bbb932c-1fca-4722-b723-d848aeb00294)
+
 
     Hoe kan ik Azure Monitor koppelen aan andere resources?
-
+    
+Bij het maken van een selectie waar je inzicht in wilt hebben krijg je de optie om een resource te selecteren.
 
   
     Waar kan ik CosmosDB vinden in de console?
@@ -38,10 +43,17 @@ https://portal.azure.com/#view/Microsoft_Azure_Monitoring/AzureMonitoringBrowseB
 
 
     Hoe zet ik CosmosDB aan?
- Vanuit de CosmosDB pagina kan je een instantie aanmaken, vervolgens kies je een API (NoSQL, PostgreSQL, MongoDB, etc)
+ Vanuit de CosmosDB pagina kan je een instantie aanmaken, vervolgens kies je een API (NoSQL, PostgreSQL, MongoDB, etc). Hierna maak je een container aan, en krijg je dit scherm te zien:
 
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/8532e08a-be63-4e04-967f-dadf1021222d)
+
+ Vanuit de data explorer is het mogelijk om nieuwe containers aan te maken.
  
     Hoe kan ik CosmosDB koppelen aan andere resources?
+    
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/f5a420a1-be93-40c2-97ab-718e5f6c9745)
+
+in het menu links staat een sectie voor Integrations, vanuit hier maak je je keuze om CosmosDB te koppelen aan andere resources.
 
     Waar kan ik Azure Functions vinden in de console?
     Hoe zet ik Azure Functions aan?
