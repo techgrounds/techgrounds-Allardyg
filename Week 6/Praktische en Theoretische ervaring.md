@@ -62,8 +62,21 @@ in het menu links staat een sectie voor Integrations, vanuit hier maak je je keu
 ## Azure Functions
 
     Waar kan ik Azure Functions vinden in de console?
+In het menu linksboven, onder Functions App
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/cdaaa796-eee8-43e7-8047-a07c12808073)
+
     Hoe zet ik Azure Functions aan?
+Klik op Create Function App
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/8af44732-5df9-49e5-a194-a45a73c3eb31)
+
+Hier kan je de details invullen
+![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/c01fc389-4af5-4c3a-acc2-b156e5d4c7fd)
+
+Azure Functions worden gebruikt om serverless aanpassingen te maken door middel van code. Het draait nog steeds op de server, maar er zijn geen extra kosten aan verbonden. Het nadeel hiervan is dat het meer moeite kost om op te zetten ten opzichte van server functions.
+
+
     Hoe kan ik Azure Functions koppelen aan andere resources?
+Bij het aanmaken van een Function kies je aan welke resource je dit koppelt
 
 
 _________________
