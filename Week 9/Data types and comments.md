@@ -13,7 +13,7 @@ Voeg de waarden van b en d samen tot een nieuwe variabele, x. Maak tot slot comm
 
 Uitwerking:
 
-Ik heb hiervoor de typeof funtie gebruikt.
+Ik heb hiervoor de typeof functie gebruikt.
     
 ![afbeelding](https://github.com/techgrounds/techgrounds-Allardyg/assets/132412310/674ee836-fcdc-4862-bd24-2e0d4ff9ceac)
 
