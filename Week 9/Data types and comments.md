@@ -37,3 +37,5 @@ blijkbaar wordt de input automatisch opgeslagen als string
 https://www.simplilearn.com/tutorials/python-tutorial/python-typeof-function
 
 https://www.digitalocean.com/community/tutorials/python-convert-string-to-float
+
+https://stackoverflow.com/questions/70967064/how-to-save-a-users-input-as-a-variable
