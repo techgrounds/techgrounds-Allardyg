@@ -30,6 +30,8 @@ Resultaat:
 Ik gebruik een while loop om door de lijst te gaan, de while loop stopt net voor het laatste getal in de lijst.
 Waarna het door gaat naar het volgende stukje code waarbij ik het eerste getal en het laatste getal combineer.
 
+"else:" is hier technisch gezien niet nodig, met de juiste indentatie werkt het script ook gewoon. Maar voor het overzicht heb ik het er in gelaten
+
 
 #### Bronnen
 
