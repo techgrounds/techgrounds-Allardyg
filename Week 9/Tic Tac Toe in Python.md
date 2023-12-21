@@ -24,4 +24,4 @@ Als alle vakjes bezet zijn is het gelijkspel, en eindigt het spel.
 
 Als iemand drie dezelfde tekens op een rij heeft is dat de winnaar. Dit wordt aangegeven, en daarna eindigt het spel.
 
-Volledige uitwerking staat in https://github.com/techgrounds/techgrounds-Allardyg/Week%209/Tic%20Tac%20Toe.py
+Volledige uitwerking staat in [https://github.com/techgrounds/techgrounds-Allardyg/Week%209/Tic%20Tac%20Toe.py](https://github.com/techgrounds/techgrounds-Allardyg/blob/main/Week%209/Tic%20Tac%20Toe.py)
