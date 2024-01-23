@@ -14,7 +14,7 @@
 
 
 ## Dagverslag (1 zin)
-
+Na veel moeite eindelijk in staat om een .bicep bestand te deployen naar de Azure Portal, nu heb ik een twee vnets en een resource group.
 
 ## Obstakels
 bestanden lijken niet te updaten
